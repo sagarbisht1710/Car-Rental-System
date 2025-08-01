@@ -1,8 +1,3 @@
-Sure! Here's your complete **README.md** file updated with the **correct project structure** based on your current directory and file setup:
-
----
-
-```markdown
 # 🚗 Car Rental System
 
 A **console-based Car Rental System** built in **Java** to demonstrate **Object-Oriented Programming (OOP)** concepts like **inheritance**, **encapsulation**, and **abstraction**. This project simulates a simple car rental workflow.
