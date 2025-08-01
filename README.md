@@ -1,18 +1,18 @@
 # 🚗 Car Rental System
 
-A **console-based Car Rental System** built in **Java** to demonstrate **Object-Oriented Programming (OOP)** concepts like **inheritance**, **encapsulation**, and **abstraction**. This project simulates a simple car rental workflow.
+A **console-based Car Rental System** built using **Java** that demonstrates key **Object-Oriented Programming (OOP)** concepts like **inheritance**, **encapsulation**, and **abstraction**. This project simulates a simple car rental workflow for educational purposes.
 
 ---
 
 ## ✅ Features
 
 - 🚘 **Add & Manage Car Details**
-- 👤 **Register and View Customer Details**
+- 👤 **Register & View Customer Details**
 - 📅 **Book & Return Cars**
 - 📄 **View Available Cars**
 - ❌ **Basic Input Validations & Menu-Driven Navigation**
 
-> **Note:** This project is **console-based only** and does **NOT** include GUI or database integration.
+> ⚠️ **Note:** This project is entirely **console-based** and does **NOT** include a GUI or database integration.
 
 ---
 
@@ -29,57 +29,54 @@ A **console-based Car Rental System** built in **Java** to demonstrate **Object-
 ```
 
 Car-Rental-System/
-├── .idea/                      # IntelliJ IDEA configuration files
+├── .idea/                      # IntelliJ IDEA project configuration files
 │   ├── misc.xml
 │   └── modules.xml
 ├── src/                        # Source code directory
-│   └── Main.java               # Main class with menu and system logic
+│   └── Main.java               # Entry point containing main logic (menu, system handling)
 ├── Car Rental System.iml       # IntelliJ project file
-├── .gitignore                  # Git ignored files
+├── .gitignore                  # Specifies intentionally untracked files to ignore
 └── README.md                   # Project documentation
-
-````
 
 ---
 
 ## 🚀 How to Run
 
 1. **Clone the Repository:**
-
    ```bash
    git clone https://github.com/sagarbisht1710/Car-Rental-System.git
 ````
 
-2. **Open in IDE:**
+2. **Open the Project:**
 
-   * Open the folder in IntelliJ IDEA, Eclipse, or VS Code.
+   * Use IntelliJ IDEA, Eclipse, or VS Code.
 
 3. **Navigate to:**
 
-   * `src/Main.java`
+   * `src/CarRentalSystem.java`
 
 4. **Run the Program:**
 
-   * Use the built-in terminal or console to run the main file.
+   * Execute it via terminal or the IDE's built-in console.
 
 ---
 
-## 🧠 Concepts Used
+## 🧠 Concepts Demonstrated
 
-* ✔ Java Classes & Objects
-* ✔ Encapsulation
-* ✔ ArrayLists
-* ✔ Control Flow (Loops, Conditionals)
-* ✔ Console I/O using `Scanner`
+* ✅ Java Classes & Objects
+* ✅ Encapsulation & Abstraction
+* ✅ ArrayLists & Loops
+* ✅ Conditional Logic
+* ✅ Console I/O with Scanner
 
 ---
 
-## 🔮 Future Improvements
+## 🔮 Future Enhancements
 
 * [ ] Add **GUI** using Java Swing or JavaFX
-* [ ] Integrate **Database** (MySQL or SQLite) for persistent storage
-* [ ] Implement **Authentication & Roles** (Admin/Customer)
-* [ ] Export booking data as **PDF/Excel**
+* [ ] Integrate a **Database** (MySQL/SQLite)
+* [ ] Implement **User Authentication & Roles** (Admin/Customer)
+* [ ] Export Booking Data as **PDF/Excel**
 
 ---
 
@@ -89,3 +86,4 @@ Car-Rental-System/
 🔗 [GitHub Profile](https://github.com/sagarbisht1710)
 
 ---
+
